@@ -1,0 +1,124 @@
+user_type,location_type,occupant_count,primary_energy_source,renewable_energy_used,renewable_capacity_kw,peak_usage_time,avg_usage_hours_per_day,power_appliance_count,smart_meter_installed,energy_efficient_usage,optimization_awareness,target_reduction_pct,tariff_reasonability,tariff_reasonability_,daily_energy_kwh,monthly_energy_kwh,monthly_bill_inr,consumption_level
+Prosumers,Urban,10,Solar,Yes-Solar panel,10,Afternoon,20,2,Yes,No,Yes,25,1,1.2,2,250,300,2
+Agriculture,Rural,1,Energy Grid,Yes-Organic,3,Morning,12,2,No,No,No,15,1,2,4,300,600,2
+Commercial Buildings,Semi-Urban,10,Energy Grid,Yes-Wind turbines,5,Morning,16,1,Yes,Partially,Yes,25,1,2,8,450,900,2
+Commercial Buildings,Semi-Urban,8,Generator,Yes-Wind turbines,3,Afternoon,20,2,Yes,Yes,Yes,30,1,2.25,18,400,900,2
+Household,Urban,3,Energy Grid,Yes-Solar panel,2,Evening,10,2,No,Yes,Yes,20,1,2.4,4,250,600,2
+Prosumers,Urban,4,Hybrid,Yes-Solar panel,5,Evening,8,2,Yes,Yes,Yes,25,2,2.86,7,210,600,2
+Commercial Buildings,Urban,10,Solar,Yes-Solar panel,10,Morning,10,2,Yes,Yes,Yes,20,1,2,2,300,600,2
+Household,Rural,2,Energy Grid,No,0,Night,6,1,No,No,No,5,2,3,2,100,300,1
+Prosumers,Urban,3,Hybrid,Yes-Solar panel,6,Evening,7,1,Yes,Yes,Yes,15,2,3,6,180,540,1
+Prosumers,Urban,4,Hybrid,Yes-Solar panel,5,Evening,8,2,Yes,Yes,Yes,25,2,3.14,7,210,660,2
+Prosumers,Urban,4,Hybrid,Yes-Solar panel,5,Evening,8,2,Yes,Yes,Yes,25,2,3.14,7,210,660,2
+Prosumers,Urban,7,Hybrid,Yes-Solar panel,10,Evening,13,3,Yes,Yes,Yes,30,2,3.45,11,330,1140,2
+Prosumers,Urban,7,Hybrid,Yes-Solar panel,8,Evening,13,3,Yes,Yes,Yes,30,2,3.45,11,330,1140,2
+Prosumers,Semi-Urban,5,Hybrid,Yes-Solar panel,3,Evening,10,2,Yes,Partially,Yes,20,2,3.5,8,240,840,2
+Prosumers,Urban,5,Hybrid,Yes-Solar panel,5,Evening,11,3,Yes,Partially,Yes,20,2,3.56,9,270,960,2
+Prosumers,Semi-Urban,6,Hybrid,Yes-Solar panel,5,Evening,11,2,Yes,Partially,Yes,20,2,3.56,9,270,960,2
+Prosumers,Urban,4,Hybrid,Yes-Solar panel,5,Evening,8,1,Yes,Yes,Yes,15,2,3.67,6,180,660,1
+Prosumers,Urban,3,Hybrid,Yes-Solar panel,4,Evening,7,1,Yes,Yes,Yes,15,2,3.67,6,180,660,1
+Prosumers,Rural,5,Hybrid,Yes-Solar panel,4,Morning,9,2,Yes,Yes,No,15,2,3.71,7,210,780,2
+Prosumers,Urban,4,Hybrid,Yes-Solar panel,5,Evening,9,2,Yes,Yes,Yes,25,2,3.71,7,210,780,2
+Prosumers,Urban,4,Hybrid,Yes-Solar panel,4,Evening,8,1,Yes,Yes,Yes,15,2,3.71,7,210,780,2
+Prosumers,Semi-Urban,5,Hybrid,Yes-Solar panel,5,Evening,10,2,Yes,Partially,Yes,20,2,3.75,8,240,900,2
+Prosumers,Rural,6,Hybrid,Yes-Solar panel,6,Morning,11,2,Yes,Yes,No,20,2,3.78,9,270,1020,2
+Prosumers,Rural,4,Hybrid,Yes-Solar panel,4,Morning,9,2,Yes,Yes,No,15,2,4,7,210,840,2
+Household,Rural,2,Solar,Yes-Solar panel,2,Morning,6,0,No,Yes,No,10,3,4.4,5,150,660,1
+Household,Rural,2,Solar,Yes-Solar panel,2,Morning,6,0,No,Yes,No,10,3,4.4,5,150,660,1
+Household,Rural,2,Solar,Yes-Solar panel,2,Morning,6,0,No,Yes,No,10,3,4.4,5,150,660,1
+Household,Semi-Urban,3,Energy Grid,No,0,Evening,8,1,No,Yes,Yes,10,3,4.5,6,200,900,2
+Commercial Buildings,Urban,24,Energy Grid,No,0,Afternoon,12,4,Yes,No,Yes,25,3,4.6,20,600,2760,3
+Household,Rural,3,Solar,Yes-Solar panel,2,Morning,7,1,No,Yes,No,10,3,4.67,6,180,840,1
+Commercial Buildings,Urban,22,Energy Grid,No,0,Afternoon,12,4,Yes,No,Yes,25,3,4.74,19,570,2700,3
+Industrial Units,Urban,35,Energy Grid,No,0,Night,18,5,Yes,No,Yes,30,3,4.79,24,720,3450,3
+Industrial Units,Urban,38,Energy Grid,No,0,Night,19,5,Yes,No,Yes,30,3,4.79,24,720,3450,3
+Household,Urban,4,Energy Grid,Yes-Solar panel,3,Evening,10,2,No,Partially,Yes,15,3,4.8,8,250,1200,2
+Industrial Units,Urban,40,Energy Grid,No,0,Night,20,5,Yes,No,Yes,30,3,4.8,25,750,3600,3
+Industrial Units,Urban,45,Energy Grid,No,0,Night,20,5,Yes,No,Yes,30,3,4.81,26,780,3750,3
+Industrial Units,Urban,45,Energy Grid,No,0,Night,20,5,Yes,No,Yes,30,3,4.81,26,780,3750,3
+Industrial Units,Urban,50,Energy Grid,No,0,Night,21,5,Yes,No,Yes,30,3,4.81,27,810,3900,3
+Commercial Buildings,Urban,22,Energy Grid,No,0,Afternoon,12,4,Yes,No,Yes,25,3,4.84,19,570,2760,3
+Industrial Units,Urban,32,Energy Grid,No,0,Night,18,5,Yes,No,Yes,30,3,4.87,23,690,3360,3
+Commercial Buildings,Urban,20,Hybrid,Yes-Solar panel,10,Afternoon,11,4,Yes,Partially,Yes,20,3,4.89,18,540,2640,3
+Commercial Buildings,Urban,14,Hybrid,Yes-Solar panel,10,Afternoon,11,4,Yes,Partially,Yes,20,3,4.89,18,540,2640,3
+Commercial Buildings,Urban,19,Hybrid,Yes-Solar panel,10,Afternoon,11,4,Yes,Partially,Yes,20,3,4.89,18,540,2640,3
+Industrial Units,Urban,36,Energy Grid,No,0,Night,19,5,Yes,No,Yes,30,3,4.92,24,720,3540,3
+Household,Rural,5,Solar,Yes-Solar panel,5,Morning,12,2,No,No,No,10,3,5,10,300,1500,2
+Industrial Units,Urban,25,Energy Grid,No,0,Night,16,5,Yes,No,Yes,25,3,5,20,600,3000,3
+Household,Urban,2,Energy Grid,Yes-Solar panel,2,Evening,6,1,No,Yes,Yes,10,3,5,4,120,600,1
+Household,Rural,3,Solar,Yes-Solar panel,3,Morning,8,1,No,Yes,No,10,3,5,6,180,900,1
+Household,Urban,5,Energy Grid,Planning to Use,0,Evening,10,2,No,Partially,Yes,15,3,5,10,300,1500,2
+Household,Urban,3,Energy Grid,Yes-Solar panel,2,Evening,8,1,No,Yes,Yes,10,3,5,6,180,900,1
+Household,Semi-Urban,5,Hybrid,Yes-Solar panel,5,Evening,12,3,Yes,Partially,Yes,20,3,5,10,300,1500,2
+Household,Rural,4,Solar,Yes-Solar panel,3,Morning,9,2,No,Yes,No,10,3,5,7,210,1050,2
+Industrial Units,Urban,30,Energy Grid,No,0,Night,18,5,Yes,No,Yes,30,3,5,22,660,3300,3
+Household,Urban,2,Energy Grid,Planning to Use,0,Evening,6,1,No,Yes,Yes,10,3,5,5,150,750,1
+Household,Semi-Urban,6,Hybrid,Yes-Solar panel,5,Evening,14,3,Yes,Partially,Yes,20,3,5,12,360,1800,2
+Household,Urban,5,Energy Grid,Yes-Solar panel,3,Evening,10,2,No,Partially,Yes,15,3,5,9,270,1350,2
+Agriculture,Rural,6,Energy Grid,No,0,Morning,12,3,No,No,No,20,3,5,14,420,2100,2
+Household,Semi-Urban,7,Energy Grid,No,0,Evening,13,3,No,No,Yes,15,3,5,11,330,1650,2
+Commercial Buildings,Urban,18,Hybrid,Yes-Solar panel,10,Afternoon,11,4,Yes,Partially,Yes,20,3,5,17,510,2550,3
+Household,Urban,3,Energy Grid,Yes-Solar panel,1,Evening,7,1,No,Yes,Yes,10,3,5,6,180,900,1
+Household,Semi-Urban,5,Hybrid,Yes-Solar panel,3,Evening,12,3,Yes,Partially,Yes,20,3,5,10,300,1500,2
+Household,Rural,4,Solar,Yes-Solar panel,4,Morning,9,2,No,Yes,No,10,3,5,8,240,1200,2
+Household,Urban,4,Energy Grid,Yes-Solar panel,3,Evening,10,2,No,Partially,Yes,15,3,5,8,240,1200,2
+Household,Semi-Urban,5,Hybrid,Yes-Solar panel,5,Evening,12,3,Yes,Partially,Yes,20,3,5,11,330,1650,2
+Household,Rural,3,Solar,Yes-Solar panel,2,Morning,7,1,No,Yes,No,10,3,5,6,180,900,1
+Household,Urban,2,Energy Grid,Planning to Use,0,Evening,6,1,No,Yes,Yes,10,3,5,5,150,750,1
+Household,Semi-Urban,6,Hybrid,Yes-Solar panel,5,Evening,14,3,Yes,Partially,Yes,20,3,5,13,390,1950,2
+Household,Rural,4,Solar,Yes-Solar panel,3,Morning,8,2,No,Yes,No,10,3,5,7,210,1050,2
+Household,Urban,5,Energy Grid,Yes-Solar panel,3,Evening,10,2,No,Partially,Yes,15,3,5,9,270,1350,2
+Agriculture,Rural,8,Energy Grid,No,0,Morning,13,3,No,No,No,20,3,5,15,450,2250,2
+Household,Semi-Urban,7,Energy Grid,No,0,Evening,13,3,No,No,Yes,15,3,5,12,360,1800,2
+Household,Urban,3,Energy Grid,Yes-Solar panel,1,Evening,7,1,No,Yes,Yes,10,3,5,6,180,900,1
+Household,Semi-Urban,5,Hybrid,Yes-Solar panel,3,Evening,12,3,Yes,Partially,Yes,20,3,5,10,300,1500,2
+Household,Rural,4,Solar,Yes-Solar panel,4,Morning,9,2,No,Yes,No,10,3,5,8,240,1200,2
+Household,Urban,4,Energy Grid,Yes-Solar panel,3,Evening,10,2,No,Partially,Yes,15,3,5,8,240,1200,2
+Household,Semi-Urban,3,Energy Grid,No,0,Evening,8,1,No,Yes,Yes,10,3,5,6,180,900,1
+Commercial Buildings,Urban,12,Hybrid,Yes-Solar panel,10,Afternoon,12,5,Yes,Partially,Yes,20,3,5,18,540,2700,3
+Industrial Units,Urban,30,Energy Grid,No,0,Night,16,5,Yes,No,Yes,25,3,5,20,600,3000,3
+Agriculture,Rural,6,Energy Grid,No,0,Morning,12,3,No,No,No,20,3,5,14,420,2100,2
+Household,Rural,3,Solar,Yes-Solar panel,2,Morning,8,1,No,Yes,No,10,3,5,6,180,900,1
+Agriculture,Rural,7,Energy Grid,No,0,Morning,13,3,No,No,No,20,3,5,14,420,2100,2
+Household,Urban,2,Energy Grid,No,0,Evening,6,1,No,Yes,Yes,10,3,5,4,120,600,1
+Household,Semi-Urban,6,Hybrid,Yes-Solar panel,3,Evening,13,3,Yes,Partially,Yes,20,3,5,11,330,1650,2
+Household,Urban,5,Energy Grid,Planning to Use,0,Evening,10,2,No,Partially,Yes,15,3,5,10,300,1500,2
+Household,Rural,4,Solar,Yes-Solar panel,3,Morning,9,2,No,Yes,No,10,3,5,8,240,1200,2
+Industrial Units,Urban,30,Energy Grid,No,0,Night,18,5,Yes,No,Yes,30,3,5,22,660,3300,3
+Household,Semi-Urban,7,Energy Grid,No,0,Evening,13,3,No,No,Yes,15,3,5,12,360,1800,2
+Household,Urban,3,Energy Grid,Yes-Solar panel,1,Evening,7,1,No,Yes,Yes,10,3,5,6,180,900,1
+Agriculture,Rural,9,Energy Grid,No,0,Morning,14,4,No,No,No,25,3,5,16,480,2400,2
+Household,Semi-Urban,5,Energy Grid,No,0,Evening,10,2,No,Partially,Yes,15,3,5,9,270,1350,2
+Household,Urban,4,Energy Grid,Yes-Solar panel,3,Evening,10,2,No,Partially,Yes,15,3,5,8,240,1200,2
+Industrial Units,Urban,28,Energy Grid,No,0,Night,17,5,Yes,No,Yes,30,3,5,21,630,3150,3
+Agriculture,Rural,6,Energy Grid,No,0,Morning,12,3,No,No,No,20,3,5,13,390,1950,2
+Household,Urban,6,Energy Grid,No,0,Evening,13,3,No,No,Yes,20,3,5,11,330,1650,2
+Agriculture,Rural,10,Energy Grid,No,0,Morning,14,4,No,No,No,25,3,5,15,450,2250,2
+Household,Rural,4,Solar,Yes-Solar panel,3,Morning,9,2,No,Yes,No,10,3,5,7,210,1050,2
+Household,Semi-Urban,7,Energy Grid,No,0,Evening,13,3,No,No,Yes,15,3,5,12,360,1800,2
+Household,Urban,2,Energy Grid,Planning to Use,0,Evening,6,1,No,Yes,Yes,10,3,5,5,150,750,1
+Household,Rural,5,Solar,Yes-Solar panel,4,Morning,10,2,No,Yes,No,10,3,5,8,240,1200,2
+Commercial Buildings,Urban,21,Energy Grid,No,0,Afternoon,12,4,Yes,No,Yes,25,3,5,19,570,2850,3
+Household,Semi-Urban,6,Energy Grid,No,0,Evening,11,2,No,Partially,Yes,15,3,5,10,300,1500,2
+Agriculture,Rural,8,Energy Grid,No,0,Morning,13,3,No,No,No,20,3,5,14,420,2100,2
+Household,Urban,4,Energy Grid,Yes-Solar panel,2,Evening,8,1,No,Yes,Yes,10,3,5,7,210,1050,2
+Household,Rural,3,Solar,Yes-Solar panel,2,Morning,8,1,No,Yes,No,10,3,5,6,180,900,1
+Industrial Units,Urban,29,Energy Grid,No,0,Night,17,5,Yes,No,Yes,30,3,5,21,630,3150,3
+Household,Semi-Urban,5,Energy Grid,No,0,Evening,10,2,No,Partially,Yes,15,3,5,9,270,1350,2
+Agriculture,Rural,6,Energy Grid,No,0,Morning,12,3,No,No,No,20,3,5,13,390,1950,2
+Household,Urban,3,Energy Grid,Planning to Use,0,Evening,7,1,No,Yes,Yes,10,3,5,6,180,900,1
+Commercial Buildings,Urban,17,Energy Grid,No,0,Afternoon,12,4,Yes,No,Yes,25,3,5.11,18,540,2760,3
+Commercial Buildings,Urban,20,Energy Grid,No,0,Afternoon,12,4,Yes,No,Yes,30,3,5.28,18,540,2850,3
+Commercial Buildings,Urban,18,Energy Grid,No,0,Afternoon,12,4,Yes,No,Yes,30,3,5.29,17,510,2700,3
+Commercial Buildings,Urban,18,Energy Grid,No,0,Afternoon,12,4,Yes,No,Yes,25,3,5.29,17,510,2700,3
+Commercial Buildings,Semi-Urban,16,Energy Grid,No,0,Afternoon,12,4,Yes,No,Yes,25,3,5.29,17,510,2700,3
+Commercial Buildings,Semi-Urban,16,Energy Grid,No,0,Afternoon,12,4,Yes,No,Yes,25,3,5.29,17,510,2700,3
+Commercial Buildings,Urban,14,Energy Grid,No,0,Afternoon,11,4,Yes,No,Yes,25,3,5.31,16,480,2550,2
+Commercial Buildings,Semi-Urban,12,Hybrid,Yes-Solar panel,10,Afternoon,11,4,Yes,Partially,Yes,20,3,5.31,16,480,2550,2
+Commercial Buildings,Semi-Urban,14,Hybrid,Yes-Solar panel,10,Afternoon,11,4,Yes,Partially,Yes,20,3,5.31,16,480,2550,2
+Commercial Buildings,Urban,12,Energy Grid,No,0,Afternoon,10,4,Yes,No,Yes,25,3,5.33,15,450,2400,2
+Commercial Buildings,Urban,10,Hybrid,Yes-Solar panel,10,Afternoon,12,5,Yes,Partially,Yes,20,3,5.4,18,500,2700,2
+Commercial Buildings,Urban,15,Energy Grid,No,0,Afternoon,12,4,Yes,No,Yes,30,4,5.63,16,480,2700,2
+Household,Semi-Urban,6,Hybrid,Yes-Solar panel,5,Evening,14,3,Yes,Partially,Yes,20,4,5.83,12,360,2100,2
+Industrial Units,Semi-Urban,6,Energy Grid,Yes-Solar panel,5,Night,7,4,Yes,Yes,Yes,25,4,6.94,6,160,1110,1
+Industrial Units,Rural,4,Energy Grid,Yes-Solar panel,10,Morning,6,5,No,No,No,20,4,7.8,8,250,1950,2
